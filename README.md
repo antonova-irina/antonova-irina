@@ -1,6 +1,6 @@
 ## Hello, World! I'm Iryna Antonova 👋
 
-A full-stack junior developer who decided to make a career change, making a deep dive into the stuff that for many years remained rather a hobby...
+A full-stack junior developer who decided to make a career change, daring a deep dive into the stuff that for many years remained rather a hobby...
 
 #### ⚡As long as it's something you truly want to do, it's never too late to take the first step!
 
