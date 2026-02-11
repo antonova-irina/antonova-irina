@@ -1,4 +1,4 @@
-## Hello, World! I'm Irina Antonova 👋
+## Hello, World! I'm Iryna Antonova 👋
 
 A full-stack junior developer who decided to make a career change, making a deep dive into the stuff that for many years remained rather a hobby...
 
