@@ -7,6 +7,6 @@ A full-stack junior developer who decided to make a career change, making a deep
 💬 Passionate about building neat, functional and user-friendly web applications. </br>
 🌱 I’m currently learning Mobile App Development. I love it! </br>
 🔭 I’m currently working on a Wordpress e-commerce project with REST API integrations. </br>
-⚡ The more I learn, the more I realize how much I don't know. But ✨ _I'm not going to give up_ ✨, 'cause I really enjoy this endless journey of learning! 
+⚡ The more I learn, the more I realize how much I don't know. But ✨ _I'm not going to give up_ ✨, since I really enjoy this endless journey of learning! 
 
 
